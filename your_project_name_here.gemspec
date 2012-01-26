@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'guard-rspec'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'rake'
-  s.add_development_dependency 'redcarpet' # for YARD markdown
+  s.add_development_dependency 'redcarpet'
   s.add_development_dependency 'rcov'
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'yard'
